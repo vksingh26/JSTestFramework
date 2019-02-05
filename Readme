@@ -1,0 +1,6 @@
+We are going to write testcase using javascript framework like mocha, nyc, chai and jest.
+Mocha: Its a javascript test framework which we will install using npm 
+Nyc: Its a javascript test framework which give the result in a proper readble framework.
+Chai: Chai provides some functionality which mocha and jest doesn't provide.
+Jest: Jest is again a javascript test framework which is a combination of mocha, assert and nyc. 
+At last we will be replacing mocha and nyc with jest.
