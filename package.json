@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vksingh26/JSTestFramework#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-shallow-deep-equal": "^1.4.6",
     "mocha": "^5.2.0"
   }
 }
