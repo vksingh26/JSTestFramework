@@ -4,3 +4,9 @@ Nyc: Its a javascript test framework which give the result in a proper readble f
 Chai: Chai provides some functionality which mocha and jest doesn't provide.
 Jest: Jest is again a javascript test framework which is a combination of mocha, assert and nyc. 
 At last we will be replacing mocha and nyc with jest.
+
+Just add jest instead instead of mocha, remaining functionality will be same. We need to update only the library
+as jest contains all mocha and chai features.
+
+So here we just need to learn jest instead of mocha and chai. Because jest will contains all the feature of 
+chai and mocha.
